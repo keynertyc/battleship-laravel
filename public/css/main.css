@@ -1,0 +1,7 @@
+.div-board, .div-board-enemy {
+    height: 50px;
+    border: 1px solid #000;
+}
+.div-board-enemy:hover {
+    cursor: pointer; cursor: hand;
+}
